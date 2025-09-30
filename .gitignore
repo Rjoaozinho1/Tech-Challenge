@@ -1,5 +1,4 @@
 .venv
 .ipynb_*
 *.json
-*.jsonl
 models
