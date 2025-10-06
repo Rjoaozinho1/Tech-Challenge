@@ -1,4 +1,6 @@
 .venv
 .ipynb_*
-*.json
 models
+trn.json
+video_script.md
+.DS_Store
